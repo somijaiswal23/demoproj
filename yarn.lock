@@ -4955,7 +4955,7 @@ des.js@^1.0.0:
 
 designops@somijaiswal23/designops:
   version "0.1.0"
-  resolved "https://codeload.github.com/somijaiswal23/designops/tar.gz/df6272d2ba4aba93b6e172a2d30bd522d98a3ceb"
+  resolved "https://codeload.github.com/somijaiswal23/designops/tar.gz/2d5fc7d80e3baf6ef11e3a6b127921fe91fc48b8"
   dependencies:
     "@material-ui/core" "^4.11.3"
     "@material-ui/icons" "^4.11.2"
@@ -4967,6 +4967,8 @@ designops@somijaiswal23/designops:
     babel-preset-react "^6.24.1"
     babel-preset-stage-2 "^6.24.1"
     is-svg "^4.3.1"
+    react "^17.0.2"
+    react-dom "^17.0.2"
     react-scripts "4.0.3"
     web-vitals "^1.0.1"
 
