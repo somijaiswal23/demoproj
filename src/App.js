@@ -1,5 +1,5 @@
 import './App.css';
-import Album from "designops/src/Components/Album"
+import {Album} from "../node_modules/designops/dist/index.js"
 
 function App() {
   return (
